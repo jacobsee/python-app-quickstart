@@ -1,0 +1,8 @@
+################
+# Runtime params
+################
+
+imageName: "quay.io/org/repo"
+imageTag: "latest"
+
+exposeRoute: true
